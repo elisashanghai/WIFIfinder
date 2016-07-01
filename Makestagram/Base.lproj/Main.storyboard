@@ -37,7 +37,7 @@
         <!--Item 1-->
         <scene sceneID="zyt-KO-HFq">
             <objects>
-                <viewController id="zrC-n6-PA7" sceneMemberID="viewController">
+                <viewController id="zrC-n6-PA7" customClass="NearbyRoutersViewController" customModule="Makestagram" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Pm4-44-Ljr"/>
                         <viewControllerLayoutGuide type="bottom" id="63k-N0-CXD"/>
